@@ -1,0 +1,6 @@
+framework module Pods_demoWS3 {
+  umbrella header "Pods-demoWS3-umbrella.h"
+
+  export *
+  module * { export * }
+}
